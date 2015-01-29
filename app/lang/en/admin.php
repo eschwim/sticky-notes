@@ -212,6 +212,8 @@ return array(
 	"client_id"             => "Client ID",
 	"client_secret"         => "Client secret",
 	"client_secret_exp"     => "You can generate client ID and secret key at the",
+	"apps_domains"          => "Apps Domains",
+	"apps_domains_exp"      => "Restrict oAuth logins to these Google Apps domains",
 	"admin_emails"          => "Admin emails",
 	"admin_emails_exp"      => "Users with these email addresses will be granted admin access. Please enter one email ".
 	                           "address per line.",

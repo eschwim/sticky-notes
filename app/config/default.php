@@ -90,6 +90,7 @@ return array(
 		'ldapPassword'        => '',
 		'oauthGoogleId'       => '',
 		'oauthGoogleSecret'   => '',
+		'oauthAppsDomains'    => '',
 		'oauthGoogleAdmins'   => '',
 	),
 
